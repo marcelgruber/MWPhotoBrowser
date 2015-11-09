@@ -211,7 +211,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "MWPhotoBrowser"
 ```
-
+In order to get your project to compile after installing and referencing MWPhotoBrowser, you may have to link various libraries in the Build Phases section of your project target. 
 
 ## Usage
 
